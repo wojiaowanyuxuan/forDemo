@@ -1,0 +1,1 @@
+export const imagePath: string = 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1578846810601&di=dc17fdf2b8a143ae97c278b6ad5bf178&imgtype=0&src=http%3A%2F%2F01.minipic.eastday.com%2F20170506%2F20170506175953_9cbe678fdc9255082f86c8761774b092_9.jpeg';
