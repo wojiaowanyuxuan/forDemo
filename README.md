@@ -3,3 +3,4 @@
 2. yarn或者yarn install(确保已经安装yarn包管理器)
 3. cd server
 4. 启动服务器 node serve.js
+5. yarn start启动项目
