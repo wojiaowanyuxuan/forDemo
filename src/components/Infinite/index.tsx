@@ -27,7 +27,7 @@ const io: IntersectionObserver = new IntersectionObserver((entries, self) => {
   })
 }, {
   threshold: [0.6]
-})
+});
 
 function preLoadImage(img: HTMLImageElement): void {
   const src: string | undefined = img.dataset.src;
