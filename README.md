@@ -4,4 +4,4 @@
 - yarn start启动项目
 
 ## 演示GIF
-![第一个GIF](/docs/Jan-30-2020 20-15-28.gif)
+![第一个GIF](/docs/show.gif)
